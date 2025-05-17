@@ -2,12 +2,7 @@
 Swypt is a decentralized application (dApp) that enables seamless conversion between Kenyan Shillings (KES) and USDT on the Pharos network. Our platform provides a simple, secure, and efficient way to onramp fiat currency to cryptocurrency.
 Contract Address:
 
-``` https://pharosscan.xyz/address/0x5d3398142E393bB4BBFF6f67a3778322d3F9D90B ```
 
-## Here is a Demo Video showing a live transaction using Swypt Dapp
- ```
-https://shorturl.at/YhQQ2
-```
 
 ## How to Use Swypt for KES to USDT Conversion
 
